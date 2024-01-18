@@ -9,10 +9,9 @@ export default function Research() {
       The differential distribution of baseline covariates across eligible studies, also called case-mix heterogeneity is an important challenge in meta-analysis.
       In this project, we develop a new approach for meta‐analysis which use individual-level data (IPD) 
       from all trials to infer the treatment effect for the patient population in a given trial, based on direct standardization. The new approach enables disentangling 
-      heterogeneity due to case mix from that due to beyond case‐mix reasons. Moreover, when data on post-randomization variables (i.e. mediators) are available across 
-      eligibles trials, one can further disentangle the beyond case-mix heterogeneity into mediator-related heterogeneity and residual heterogeneity. The new framework 
-      is currently being extended to network meta-analysis and meta-analysis of aggregated data combined with individual-level data. This is a joint work with Pr. Stijn Vansteelandt, 
-      Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
+      heterogeneity due to case mix from that due to beyond case‐mix reasons. Moreover, when data on mediators are available across 
+      eligibles trials, one can further disentangle the beyond case-mix heterogeneity into mediator-related heterogeneity and residual heterogeneity.
+      This is a joint work with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
     <div className="title">
       Novel methods for mediation analysis based on recanting twins
