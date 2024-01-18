@@ -11,6 +11,7 @@ export default function MyTeam() {
                     Khoi Le. PhD student in Epidemiology, University Paris XII. 2023-2026
                     <br/> Topic: Efficacy and safety of biologic treatments in psoriasis: causal inference
                     from observational data. Coadvisor: Emilie Sbidian.
+                    <br/> 
                 </li>
                 <li>
                     Thomas Bettuzzi (mentee). PhD student in Epidemiology, University Paris XII. 2023-2024
