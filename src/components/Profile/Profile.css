@@ -1,0 +1,45 @@
+.Profile {
+    width: 25%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: left;
+    margin-right: 5em;
+}
+
+.Profile img {
+    border-radius: 5px;
+    max-height: 350px;
+    max-width: 350px;
+    min-width: 100px;
+    min-height: 150px;
+}
+
+.Profile .name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0.5em 0;
+    color: white;
+}
+
+.Profile .contactLinks {
+    margin-top: 1.2em;
+}
+
+.Profile .contactLinks div {
+    margin-top: 0.5em;
+}
+
+.Profile .contactLinks div svg {
+    margin-right: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+    .Profile {
+        width: 100%;
+        margin-right: 0;
+        text-align: center;
+        align-items: center;
+    }
+}

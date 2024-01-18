@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  background-color: #5A5A5A;
+  color: #D8DEE9;
+}
+
+.App .body{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.App .body .content{
+  width: 50%;
+  margin: 1em;
+  text-align: justify;
+}
+
+.title {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.5em 0;
+  color: White;
+}
+
+a {
+  color: #61dafb;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .App .body{
+    flex-direction: column;
+    width: 100%;
+  }
+  .App .body .content{
+    margin: 0;
+    width: 100%;
+  }
+}

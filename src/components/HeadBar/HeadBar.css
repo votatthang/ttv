@@ -1,0 +1,49 @@
+.HeadBar {
+    background-color: black;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+
+.HeadBar .links .navLinks {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 1em;
+    margin: 1em 0;
+}
+
+.HeadBar .links a {
+    color: lightgray;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.HeadBar .links a:hover {
+    color: white;
+}
+
+.HeadBar .links a.active {
+    color: white;
+}
+
+.menuToggleBtn {
+    display: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .HeadBar .links .navLinks{
+        flex-direction: column;
+        align-items: center;
+        display: none;
+    }
+    .HeadBar .links .navLinks.show{
+        display: flex;
+    }
+    .menuToggleBtn {
+        display: block;
+    }
+}

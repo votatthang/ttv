@@ -1,0 +1,30 @@
+.AboutMe .hobbyLogo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.AboutMe .hobbyLogo div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.5em;
+}
+
+.AboutMe .hobbyLogo div p{
+    margin-left: 0.5em;
+}
+
+.AboutMe .hobbyLogo div svg {
+    margin-right: 0.2em;
+}
+
+.AboutMe .hobbyLogo div img {
+    margin-right: 0.2em;
+}
+
+@media screen and (max-width: 768px) {
+    .AboutMe .hobbyLogo {
+        flex-direction: column;
+        align-items: center;
+    }
+}
