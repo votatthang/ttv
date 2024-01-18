@@ -6,14 +6,25 @@ import { HiOutlineMicrophone } from "react-icons/hi";
 export default function AboutMe() {
     return <div className="AboutMe">
         <div className="shortDescription">
-            I am a biostatistician with research interests in developing and applying causal inference methods to understand the benefice and risks of medical interventions on human’s health. Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).<br/> <br/> In 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France), under the supervision of Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a> and Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program, within the MiRoR (Methods in Research on Research) project. After three years of postdoctoral training mentored by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at the Department of Statistics and Data Science, The Wharton School, University of Pennsylvania (USA), I have recently joined the research group EPIDERME at the University Paris XII (France) as a Junior Professor in Biostatistics.
+            I am a biostatistician with research interests in developing and applying causal inference methods to understand the benefice and risks of medical interventions on human’s health. 
+            Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).<br/> <br/> 
+            In 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France), under the supervision of Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a> 
+            and Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program, within the MiRoR (Methods in Research on Research) project. 
+            After three years of postdoctoral training mentored by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> 
+            at the Department of Statistics and Data Science, The Wharton School, University of Pennsylvania (USA), I have recently joined the research group EPIDERME at the University Paris XII (France) as a Junior Professor in Biostatistics.
         </div>
         <div className="title">
             Research Interests
         </div>
         <div className="contentText">
             My current works primarily concern the development of novel approaches for causally
-            interpretable meta-analysis and heterogeneity assessment. More recently, I have been working on the use of instrumental variables in difference-in-difference design, methods for mediation analysis and indirect treatment comparison in health technology assessment. One important feature of my research is the application of semi-parametric theory to allow the use of flexible, data-adaptive or machine learning algorithms to address causal problems. I am also interested in the applications of causal methods to clinical questions in medicine, psychology and pharmacoepidemiology.
+            interpretable meta-analysis and heterogeneity assessment. More recently, I have been 
+            working on the use of instrumental variables in difference-in-difference design, methods 
+            for mediation analysis and indirect treatment comparison in health technology assessment. 
+            One important feature of my research is the application of semi-parametric theory to allow 
+            the use of flexible, data-adaptive or machine learning algorithms to address causal problems. 
+            I am also interested in the applications of causal methods to clinical questions in medicine, 
+            psychology and pharmacoepidemiology.
         </div>
         <div className="title">
             Honors and Awards
