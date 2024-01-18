@@ -3,20 +3,26 @@ import React from "react";
 export default function Research() {
   return <div className="Research">
     <div className="title">
-      Causally interpretable meta-analysis and heterogeneity assessment
+      Causally interpretable meta-analysis
     </div>
     <div className="contentText">
-      Case‐mix heterogeneity across studies complicates meta‐analyses. As a result of this, treatments that are equally effective on patient subgroups may appear to have different effectiveness on patient populations with different case mix. It is therefore important that meta‐analyses be explicit for what patient population they describe the treatment effect. To achieve this, we develop a new approach for meta‐analysis which use individual-level data (IPD) from all trials to infer the treatment effect for the patient population in a given trial, based on direct standardization. The new approach enables disentangling heterogeneity due to case mix from that due to beyond case‐mix reasons. Moreover, when data on post-randomization variables (i.e. mediators) are available across eligibles trials, one can further disentangle the beyond case-mix heterogeneity into mediator-related heterogeneity and residual heterogeneity. The new framework is currently being extended to network meta-analysis and meta-analysis of aggregated data combined with individual-level data. This is a joint work with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
+      The differential distribution of baseline covariates across eligible studies, also called case-mix heterogeneity is an important challenge in meta-analysis.
+      In this project, we develop a new approach for meta‐analysis which use individual-level data (IPD) 
+      from all trials to infer the treatment effect for the patient population in a given trial, based on direct standardization. The new approach enables disentangling 
+      heterogeneity due to case mix from that due to beyond case‐mix reasons. Moreover, when data on post-randomization variables (i.e. mediators) are available across 
+      eligibles trials, one can further disentangle the beyond case-mix heterogeneity into mediator-related heterogeneity and residual heterogeneity. The new framework 
+      is currently being extended to network meta-analysis and meta-analysis of aggregated data combined with individual-level data. This is a joint work with Pr. Stijn Vansteelandt, 
+      Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
     <div className="title">
       Novel methods for mediation analysis based on recanting twins
     </div>
     <div className="contentText">
-      The presence of intermediate confounders, also called recanting witnesses, is a fundamental challenge to the investigation of causal mechanisms 
-      in mediation analysis, preventing the identification of natural path-specific effects. In this project, we develop a novel method for mediation 
+      The presence of intermediate confounders, also called recanting witnesses, prevents the identification of natural path-specific effects.
+      In this project, we develop a novel method for mediation 
       analysis in settings with intermediate confounding, with guarantees that the causal parameters measure the target individual-level mechanisms. 
-        The method is based on recently proposed ideas that view causality as the transfer of information, and thus replace recanting witnesses by draws 
-        from their conditional distribution. This is a joint work with Dr. Ivan Diaz and Dr. Kara Rudolph.
+      The method is based on recently proposed ideas that view causality as the transfer of information, and thus replace recanting witnesses by draws 
+      from their conditional distribution. This is a joint work with Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
     <div className="title">
       Risk of Bias in Mediation Analysis (ROBIMA)
