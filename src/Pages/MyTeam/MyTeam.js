@@ -12,10 +12,18 @@ export default function MyTeam() {
                     Topic: Efficacy and safety of biologic treatments in psoriasis: causal inference
                     from observational data. Coadvisor: Emilie Sbidian.
                 </li>
+                <li>
+                    Thomas Bettuzzi (mentee). PhD student in Epidemiology, University Paris XII. 2023-2024
+                    Topic: Integrating aggregated data in random-effect meta-analysis of individual-level data.
+                </li>
+                <li>
+                    Laetitia Tan-Lhernould (mentee). Biotatistician. Henri Mondor Hospital. 2023-2024
+                    Topic: Novel methods for indirect treatment comparisons in health technology assessment.
+                </li>
             </ul>
         </div>
         <div className="title">
-            Previous students/mentees
+            Previous students and mentees
         </div>
         <div className="contentText">
             <ul>
