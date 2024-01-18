@@ -13,8 +13,9 @@ export default function Profile() {
             Tat-Thang Vo
         </div>
         <div className="description">
-            PharmD, PhD
-            Professor (Junior) in Biostatistics at Faculty of Medicine, University Paris XII, France.
+            PharmD, PhD <br/>
+            Professor (Junior) in Biostatistics <br/>
+            Faculty of Medicine, University Paris XII, France.
         </div>
         <div className="contactLinks">
             <div className="location">
