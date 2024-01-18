@@ -10,8 +10,8 @@ export default function AboutMe() {
             Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).<br/> <br/> 
             In 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France), under the supervision of Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a> 
             and Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program, within the MiRoR (Methods in Research on Research) project. 
-            After three years of postdoctoral training mentored by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> 
-            at the Department of Statistics and Data Science, The Wharton School, University of Pennsylvania (USA), I have recently joined the research group EPIDERME at the University Paris XII (France) as a Junior Professor in Biostatistics.
+            After three years of postdoctoral training mentored by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at
+            the Department of Statistics and Data Science, The Wharton School, University of Pennsylvania (USA), I have recently joined the research group EPIDERME at the University Paris XII (France) as a Junior Professor in Biostatistics.
         </div>
         <div className="title">
             Research Interests
