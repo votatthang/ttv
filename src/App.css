@@ -14,7 +14,7 @@
 .App .body .content{
   width: 50%;
   margin: 1em;
-  text-align: justify;
+  text-align: left;
 }
 
 .title {
