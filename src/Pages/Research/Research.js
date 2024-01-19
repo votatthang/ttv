@@ -48,13 +48,13 @@ export default function Research() {
       For instance, we are currently working on projects to combine matching and countermatching in nested case-control design, 
       to extend the difference-in-differences (DID) design to a survival outcome setting,
       or to develop alternatives when the parallel trends assumption in DID is violated. Throughout these projects, 
-        I closely collaborated with Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan Small</a>, Pr. 
-          <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396">Sean Hennessy</a>, Pr. 
-          <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, Dr. 
-          <a href="https://sites.google.com/view/ruoqi-yu/">Ruoqi Yu</a>, Dr. 
-          <a href="https://sites.google.com/view/tingye/home">Ting Ye</a>, Dr. 
-          <a href="https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx">Ashkan Ertefaie</a> and Dr. 
-          <a href="https://www.linkedin.com/in/samratroy67/">Samrat Roy</a>.
+        I closely collaborated with Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan Small</a>, 
+          Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396">Sean Hennessy</a>, 
+          Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, 
+          Dr. <a href="https://sites.google.com/view/ruoqi-yu/">Ruoqi Yu</a>, 
+          Dr. <a href="https://sites.google.com/view/tingye/home">Ting Ye</a>, 
+          Dr. <a href="https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx">Ashkan Ertefaie</a> and 
+          Dr. <a href="https://www.linkedin.com/in/samratroy67/">Samrat Roy</a>.
   </div>
   </div>;
 }
