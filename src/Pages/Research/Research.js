@@ -3,15 +3,14 @@ import React from "react";
 export default function Research() {
   return <div className="Research">
     <div className="title">
-      Causally interpretable meta-analysis
+      Causal data fusion and its applications
     </div>
     <div className="contentText">
-      The differential distribution of baseline covariates across eligible studies, also called case-mix heterogeneity is an important challenge in meta-analysis.
-      In this project, we develop a new approach for meta‐analysis which use individual-level data (IPD) 
-      from all trials to infer the treatment effect for the patient population in a given trial, based on direct standardization. The new approach enables disentangling 
-      heterogeneity due to case mix from that due to beyond case‐mix reasons. Moreover, when data on mediators are available across 
-      eligibles trials, one can further disentangle the beyond case-mix heterogeneity into mediator-related heterogeneity and residual heterogeneity.
-      This is a joint work with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
+      The integration of data and knowledge from several data sources is often known as data fusion. Across different research fields, data fusion is increasingly needed
+      to satisfy the requirement of combining information from multiple databases, so as to improve our ability to perform statistical inferences. Within this realm, 
+      my works primarily concern the development of new methods to address the challenge of heterogeneity and restricted access to individual-level data
+      when fusing and/or borrowing information across different populations, e.g. in evidence synthesis or health technology assessment. 
+      In this direction, I strongly collaborate with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
     <div className="title">
       Novel methods for mediation analysis based on recanting twins
