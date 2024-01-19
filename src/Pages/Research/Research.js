@@ -10,7 +10,10 @@ export default function Research() {
       to combine information from multiple databases, so as to improve our ability to perform statistical inferences. Within this realm, 
       my works primarily concern the development of new methods to address the challenge of heterogeneity and of restricted access to individual-level data, 
       when borrowing information across different populations in evidence synthesis or health technology assessment. 
-      In this direction, I closely collaborate with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
+      In this direction, I closely collaborate with Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a>, 
+        Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>, 
+          Dr. <a href="https://www.idiaz.xyz/"> Ivan Diaz</a> and 
+            Dr. <a href="https://kararudolph.github.io/"> Kara Rudolph</a>.
     </div>
     <div className="title">
       Recanting twins in mediation analysis
