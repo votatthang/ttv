@@ -13,12 +13,14 @@ export default function Research() {
       In this direction, I strongly collaborate with Pr. Stijn Vansteelandt, Dr. Raphael Porcher, Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
     <div className="title">
-      Novel methods for mediation analysis based on recanting twins
+      Recanting twins in mediation analysis
     </div>
     <div className="contentText">
-      The presence of intermediate confounders, also called recanting witnesses, prevents the identification of natural path-specific effects.
-      In this project, we develop a novel method for mediation 
-      analysis in settings with intermediate confounding, with guarantees that the causal parameters measure the target individual-level mechanisms. 
+      Mediation analyses are statistical techniques commonly used to study the mechanisms via which exposures exert causal effects on outcomes. 
+      The presence of intermediate confounders, also called recanting witnesses, is a long standing challenge that prevents 
+      a fine-grained assessment of diffrent causal pathways linking the exposure and the outcome. 
+      In a recent work, we develop a novel method for mediation analysis in settings with intermediate confounding, 
+      with guarantees that the causal parameters measure the target individual-level mechanisms. 
       The method is based on recently proposed ideas that view causality as the transfer of information, and thus replace recanting witnesses by draws 
       from their conditional distribution. This is a joint work with Dr. Ivan Diaz and Dr. Kara Rudolph.
     </div>
