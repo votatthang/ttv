@@ -25,8 +25,8 @@ export default function Research() {
       In a recent study, we develop a novel method for mediation to address this challenge, 
       with guarantees that the proposed causal parameters will measure the target individual-level mechanisms. 
       Such a method is based on recently proposed ideas that view causality as the transfer of information, and thus replace recanting witnesses by drawing 
-      from their conditional distribution, which we call "recanting twins". This work is a fruiful collaboration with Dr. <a href="https://www.idiaz.xyz/"> Ivan Diaz</a> and 
-        Dr. <a href="https://kararudolph.github.io/"> Kara Rudolph</a>.
+      from their conditional distribution, which we call "recanting twins". This work is a fruiful collaboration with Dr. <a href="https://www.idiaz.xyz/">Ivan Diaz</a> and 
+        Dr. <a href="https://kararudolph.github.io/">Kara Rudolph</a>.
     </div>
     <div className="title">
       Risk of Bias in Mediation Analysis (ROBIMA)
@@ -34,11 +34,11 @@ export default function Research() {
     <div className="contentText">
       ROBIMA is a new initiative that involves international experts in psychology, epidemiology and biostatistics, with aim to construct a consensus-based, 
       high-quality tool for evaluating methodological biases in mediation analyses. This project involves many world-leading mediation experts such as 
-      Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a>, Pr. 
-          <a href="https://www.hsph.harvard.edu/tyler-vanderweele/"> Tyler Vanderweele</a>, Pr. 
-          <a href="https://search.asu.edu/profile/28257"> David MacKinnon</a>, Dr. 
-          <a href="https://www.ndorms.ox.ac.uk/team/hopin-lee"> Hopin Lee</a>, Dr. 
-          <a href="https://neura.edu.au/researchers/aidan-cashin"> Aidan Cashin</a>, among many others.
+      Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, Pr. 
+          <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler Vanderweele</a>, Pr. 
+          <a href="https://search.asu.edu/profile/28257">David MacKinnon</a>, Dr. 
+          <a href="https://www.ndorms.ox.ac.uk/team/hopin-lee">Hopin Lee</a>, Dr. 
+          <a href="https://neura.edu.au/researchers/aidan-cashin">Aidan Cashin</a>, among many others.
     </div>
     <div className="title">
       Methods to address (un)measured confounding
@@ -48,13 +48,13 @@ export default function Research() {
       For instance, we are currently working on projects to combine matching and countermatching in nested case-control design, 
       to extend the difference-in-differences (DID) design to a survival outcome setting,
       or to develop alternatives when the parallel trends assumption in DID is violated. Throughout these projects, 
-        I closely collaborated with Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/"> Dylan Small</a>, Pr. 
-          <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a>, Pr. 
-          <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a>, Dr. 
-          <a href="https://sites.google.com/view/ruoqi-yu/"> Ruoqi Yu</a>, Dr. 
-          <a href="https://sites.google.com/view/tingye/home"> Ting Ye</a>, Dr. 
-          <a href="https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx"> Ashkan Ertefaie</a> and Dr. 
-          <a href="https://www.linkedin.com/in/samratroy67/"> Samrat Roy</a>.
+        I closely collaborated with Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan Small</a>, Pr. 
+          <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396">Sean Hennessy</a>, Pr. 
+          <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, Dr. 
+          <a href="https://sites.google.com/view/ruoqi-yu/">Ruoqi Yu</a>, Dr. 
+          <a href="https://sites.google.com/view/tingye/home">Ting Ye</a>, Dr. 
+          <a href="https://www.urmc.rochester.edu/biostat/people/faculty/ertefaie.aspx">Ashkan Ertefaie</a> and Dr. 
+          <a href="https://www.linkedin.com/in/samratroy67/">Samrat Roy</a>.
   </div>
   </div>;
 }
