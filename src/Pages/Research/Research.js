@@ -34,11 +34,11 @@ export default function Research() {
     <div className="contentText">
       ROBIMA is a new initiative that involves international experts in psychology, epidemiology and biostatistics, with aim to construct a consensus-based, 
       high-quality tool for evaluating methodological biases in mediation analyses. This project involves many world-leading mediation experts such as 
-      Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, Pr. 
-          <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler Vanderweele</a>, Pr. 
-          <a href="https://search.asu.edu/profile/28257">David MacKinnon</a>, Dr. 
-          <a href="https://www.ndorms.ox.ac.uk/team/hopin-lee">Hopin Lee</a>, Dr. 
-          <a href="https://neura.edu.au/researchers/aidan-cashin">Aidan Cashin</a>, among many others.
+      Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt">Stijn Vansteelandt</a>, 
+      Pr. <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler Vanderweele</a>, 
+      Pr. <a href="https://search.asu.edu/profile/28257">David MacKinnon</a>, 
+      Dr. <a href="https://www.ndorms.ox.ac.uk/team/hopin-lee">Hopin Lee</a>, 
+      Dr. <a href="https://neura.edu.au/researchers/aidan-cashin">Aidan Cashin</a>, among many others.
     </div>
     <div className="title">
       Methods to address (un)measured confounding
