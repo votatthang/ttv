@@ -10,10 +10,10 @@ export default function AboutMe() {
             Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).<br/> <br/> 
             In 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France), under the supervision of Pr. <a href="https://www.ugent.be/dass/en/research/vansteelandt"> Stijn Vansteelandt</a> and 
             Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program. 
-            I then received postdoctoral training by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at
+            I then received a three-year postdoctoral training by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at
             Wharton Department of Statistics and Data Science, University of Pennsylvania (USA). 
-            <br/> <br/> Recently, I have joined the research group <a href="https://team-epiderme.com/"> EPIDERME</a> at University Paris XII (France) as a Junior Professor in Biostatistics, and the research group
-            <a href="https://map5.mi.parisdescartes.fr/"> MAP5</a> at University Paris Cite (France) as an Associated Researcher.
+            <br/> <br/> Recently, I have joined the research group <a href="https://team-epiderme.com/"> EPIDERME</a> at University Paris XII (France) as a Junior Professor in Biostatistics, and the research
+            group <a href="https://map5.mi.parisdescartes.fr/"> MAP5</a> at University Paris Cité (France) as an Associated Researcher.
         </div>
         <div className="title">
             Research Interests
