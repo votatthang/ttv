@@ -12,8 +12,8 @@ export default function AboutMe() {
             Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program. 
             I then received postdoctoral training by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at
             Wharton Department of Statistics and Data Science, University of Pennsylvania (USA). 
-            <br/> <br/> Recently, I have joined the research group EPIDERME at University Paris XII (France) as a Junior Professor in Biostatistics, and the research group
-            MAP5 at University Paris Cite (France) as an Associated Researcher.
+            <br/> <br/> Recently, I have joined the research group <a href="https://team-epiderme.com/"> EPIDERME</a> at University Paris XII (France) as a Junior Professor in Biostatistics, and the research group
+            <a href="https://map5.mi.parisdescartes.fr/"> MAP5</a> at University Paris Cite (France) as an Associated Researcher.
         </div>
         <div className="title">
             Research Interests
@@ -47,16 +47,16 @@ export default function AboutMe() {
                     Student Conference Award, International Society of Clinical Biostatistics – Aug 2018.
                 </li>
                 <li>
-                    Marie Sklodowska-Curie Actions funding (35.000 EUR/year), project MiRoR – 2016-2019.
+                    Marie Sklodowska-Curie Actions funding, project MiRoR – 2016-2019.
                 </li>
                 <li>
-                    Ile-de-France International Master Scholarship (10.400 EUR/year) – 2014-2016.
+                    Ile-de-France International Master Scholarship – 2014-2016.
                 </li>
                 <li>
-                    Eiffel Excellence Scholarship from French Ministry of Europe and Foreign (11.000 E/year) – 2015-2016.
+                    Eiffel Excellence Scholarship from French Ministry of Europe and Foreign – 2015-2016.
                 </li>
                 <li>
-                    Agence Universitaire de la Francophonie Master Scholarship (7.000 EUR/year) – 2014-2015.
+                    Agence Universitaire de la Francophonie Master Scholarship – 2014-2015.
                 </li>
                 <li>
                     Valedictorian. Class of 2014, Hanoi University of Pharmacy – June 2014.
