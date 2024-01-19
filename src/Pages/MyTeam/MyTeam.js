@@ -8,18 +8,15 @@ export default function MyTeam() {
         <div className="contentText">
             <ul>
                 <li>
-                    Khoi Le. PhD student in Epidemiology, University Paris XII. 2023-2026
-                    <br/> Topic: Efficacy and safety of biologic treatments in psoriasis: causal inference
-                    from observational data. Coadvisor: Emilie Sbidian.
+                    Khoi Le. PhD student in Epidemiology, University Paris XII. 2023-2026.
+                    <br/> Coadvisor: Pr. Emilie Sbidian.
                     <br/> 
                 </li>
                 <li>
-                    Thomas Bettuzzi (mentee). PhD student in Epidemiology, University Paris XII. 2023-2024
-                    <br/> Topic: Integrating aggregated data in random-effect meta-analysis of individual-level data.
+                    Thomas Bettuzzi (mentee). PhD student in Epidemiology, University Paris XII. 2023-2024.
                 </li>
                 <li>
-                    Laetitia Tan-Lhernould (mentee). Biotatistician. Henri Mondor Hospital. 2023-2024
-                    <br/> Topic: Novel methods for indirect treatment comparisons in health technology assessment.
+                    Laetitia Tan-Lhernould (mentee). Biotatistician, Henri Mondor Hospital. 2023-2024.
                 </li>
             </ul>
         </div>
@@ -30,13 +27,11 @@ export default function MyTeam() {
             <ul>
                 <li>
                     Bang Truong (mentee). PhD student in Epidemiology, Auburn University. 2021-2022
-                    <br/> Topic: A systematic review of population adusted-indirect comparisons in
-                    health technology assessment.
+                    <br/> Currently data scientist at AbbVie (USA).
                 </li>
                 <li>
                     Luong Vuong (mentee). MSc. student in Epidemiology, Antwerp University. 2021-2022
-                    <br/> Topic: Methods for developing minimum reporting sets of patient characteristics
-                    in epidemiological research.
+                    <br/> Currently PhD student at KU Leuven (Belgium).
                 </li>
             </ul>
         </div>
