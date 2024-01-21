@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 
-const FORM_ENDPOINT = "https://herotofu.com/start"; // TODO - update to the correct endpoint
-
 const ContactMe = () => {
     
 
@@ -15,7 +13,6 @@ const ContactMe = () => {
                 <li>
                     Vo T, Wiliams NT, Liu L, Rudolph KE, Diaz I. Recanting twins: addressing intermediate
                     confounding in mediation analysis - under review.
-                    <br/> 
                 </li>
                 <li>
                     Vo T, Ye T, Ertefaie A, Roy S, Flory J, Hennessy S, Vansteelandt S, Small D. Marginal
@@ -27,7 +24,7 @@ const ContactMe = () => {
                 </li>
                 <li>
                     Vo T, Davies H, Hackett R, Vansteelandt S. Longitudinal mediation analysis of time-to-event
-                    outcome in the presence of competing risk. Lifetime Data Anal. 2022;28:380{400. doi:10.1007/
+                    outcome in the presence of competing risk. Lifetime Data Anal. 2022;28:380-400. doi:10.1007/
                     s10985-022-09555-7.
                 </li>                                                                        
                 <li> 
