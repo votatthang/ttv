@@ -5,6 +5,7 @@ import "./Profile.css";
 import { FaLocationDot, FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { SiGooglescholar } from "react-icons/si";
+import { FaDownload } from "react-icons/fa";
 
 export default function Profile() {
     return <div className="Profile">
@@ -43,7 +44,8 @@ export default function Profile() {
                 <a href="https://scholar.google.com/citations?hl=fr&user=VMFhSVcAAAAJ">Google Scholar</a>
             </div>
             <div className="resume">
-                <a href="/resume.pdf">download CV</a>
+                <FaDownload />
+                <a href="/resume.pdf">My CV</a>
             </div>
         </div>
     </div>;
