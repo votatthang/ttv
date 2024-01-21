@@ -21,12 +21,12 @@ const ContactMe = () => {
                 <li>
                     <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, 
                         Ye T, Ertefaie A, Roy S, Flory J, Hennessy S, Vansteelandt S, Small D. Marginal
-                    Structural Models for Instrumented Di erence in Di erence design - under revision.
+                    Structural Models for Instrumented Difference in Difference design - under revision.
                 </li>
                 <li>
                     Roy S, Ye T, Ertefaie A, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, 
                         Flory J, Hennessy S, Small D. Group Sequential Testing under
-                    Instrumented Di erence-in-Di erence approach. Stat Med. doi:10.1002/sim.9836.
+                    Instrumented Difference-in-Difference approach. Stat Med. doi:10.1002/sim.9836.
                 </li>
                 <li>
                     <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, 
@@ -71,7 +71,7 @@ const ContactMe = () => {
                 2023;1-4. doi:10.1002/jrsm.1621.
                 </li>
                 <li>
-                van Lancker K*, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T*</a>, Akacha M. 
+                van Lancker K*, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T*</a>, Akacha M*. 
                         Estimands in heath technology assessment: a causal
                 inference perspective. Stat Med. 2022;41(28):5577-5585. doi:10.1002/sim.9539.
                 </li>
