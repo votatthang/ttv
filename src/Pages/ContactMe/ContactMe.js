@@ -7,6 +7,10 @@ const ContactMe = () => {
         <div className="Publications">
         <div className="contentText">
         (*): Equal contribution
+        <span>
+  Test Page
+  <span style={{ verticalAlign: "super" }}>abc</sup>
+</span>
         </div>
          <div className="title">
             Statistical Methods
@@ -71,7 +75,7 @@ const ContactMe = () => {
                 2023;1-4. doi:10.1002/jrsm.1621.
                 </li>
                 <li>
-                van Lancker K, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, Akacha M. 
+                van Lancker K*, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T*</a>, Akacha M. 
                         Estimands in heath technology assessment: a causal
                 inference perspective. Stat Med. 2022;41(28):5577-5585. doi:10.1002/sim.9539.
                 </li>
