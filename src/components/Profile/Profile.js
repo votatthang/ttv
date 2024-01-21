@@ -49,6 +49,9 @@ export default function Profile() {
                 <a href="/resume.pdf">My CV</a>
             </div>
         <br/> <br/> 
+        <div className="name">
+            Tat-Thang Vo
+        </div>
             <div className="news">
                 <FaNewspaper/>
                 I am looking for new master and postdoctoral students. 
