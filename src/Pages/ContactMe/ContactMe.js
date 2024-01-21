@@ -5,6 +5,9 @@ const ContactMe = () => {
 
     return (
         <div className="Publications">
+        <div className="contentText">
+        (*): Equal contribution
+        </div>
          <div className="title">
             Statistical Methods
         </div>
