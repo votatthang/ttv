@@ -51,8 +51,8 @@ export default function Profile() {
         <br/> <br/> 
             <div className="news">
                 <FaNewspaper/>
-                <a href="mailto:tat-thang.vo@u-pec.fr">I am looking for new master and postdoctoral students. 
-                Please free to reach out via email.</a>
+                I am looking for new master and postdoctoral students. 
+                Please free to reach out via <a href="mailto:tat-thang.vo@u-pec.fr">email.</a>
             </div>
         </div>
     </div>;
