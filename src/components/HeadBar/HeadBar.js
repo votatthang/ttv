@@ -15,7 +15,7 @@ export default function HeadBar() {
     { name: "Research", link: "/Research" },
     { name: "Teaching", link: "/Teaching" },
     { name: "My Team", link: "/MyTeam" },
-    { name: "Contact Me", link: "/ContactMe" },
+    { name: "Publications", link: "/Publications" },
   ];
   return <div className="HeadBar">
     <div className="links">
