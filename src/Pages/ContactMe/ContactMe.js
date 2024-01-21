@@ -6,7 +6,7 @@ const ContactMe = () => {
     return (
         <div className="Publications">
         <div className="contentText">
-        (*): Equal contribution
+        (*): Equal contribution; (**): Senior author.
         </div>
          <div className="title">
             Statistical Methods
@@ -54,7 +54,7 @@ const ContactMe = () => {
         <div className="contentText">
             <ul>
                 <li>
-                Truong B, Tran LAT, Pham T, Nguyen TA, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>. 
+                Truong B, Tran LAT, Pham T, Nguyen TA, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T**</a>. 
                         Population adjustment for indirect treatment
                 comparison in health technology assessment: a methodological systematic review. Res Syn
                 Meth. 2023;14(5):660-670. doi:10.1002/jrsm.1653.
@@ -76,7 +76,7 @@ const ContactMe = () => {
                 inference perspective. Stat Med. 2022;41(28):5577-5585. doi:10.1002/sim.9539.
                 </li>
                 <li>
-                Vuong ML, Tu PHT, Duong KL, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>. 
+                Vuong ML, Tu PHT, Duong KL, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T**</a>. 
                     Development of minimum reporting sets of patient
                 characteristics in epidemiological research: a methodological systematic review. Research Methods
                 in Medicine & Health Sciences. 2023;1-14. doi:10.1177/26320843231191777.
