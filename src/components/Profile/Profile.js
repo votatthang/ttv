@@ -6,6 +6,7 @@ import { FaLocationDot, FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa6"
 import { MdEmail } from "react-icons/md";
 import { SiGooglescholar } from "react-icons/si";
 import { FaDownload } from "react-icons/fa";
+import { FaNewspaper } from "react-icons/fa";
 
 export default function Profile() {
     return <div className="Profile">
@@ -47,8 +48,10 @@ export default function Profile() {
                 <FaDownload />
                 <a href="/resume.pdf">My CV</a>
             </div>
-            <div className="description">
-                I am looking for new master and postdoctoral students. Please free to reach out via email.
+            <div className="news">
+                <FaNewspaper/>
+                <a href="mailto:tat-thang.vo@u-pec.fr">I am looking for new master and postdoctoral students. 
+                Please free to reach out via email.</a>
             </div>
         </div>
     </div>;
