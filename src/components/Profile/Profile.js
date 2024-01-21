@@ -42,6 +42,9 @@ export default function Profile() {
                 <SiGooglescholar />
                 <a href="https://scholar.google.com/citations?hl=fr&user=VMFhSVcAAAAJ">Google Scholar</a>
             </div>
+            <div className="resume">
+                <a href="/resume.pdf">download CV</a>
+            </div>
         </div>
     </div>;
 }
