@@ -39,6 +39,57 @@ const ContactMe = () => {
                 </li>
             </ul>
         </div> 
+        <div className="title">
+            Epidemiological Applications
+        </div>
+        <div className="contentText">
+            <ul>
+                <li>
+                Truong B, Tran LAT, Pham T, Nguyen TA, Vo Ty. Population adjustment for indirect treatment
+                comparison in health technology assessment: a methodological systematic review. Res Syn
+                Meth. 2023;14(5):660-670. doi:10.1002/jrsm.1653.
+                </li>
+                <li>
+                Nguyen V, Sharp M, Superchi C, Baron G, Glonti K, Blanco D, Olsen M, Vo T, Olarte C, Neveol
+                A, Hren D, Ravaud P, Boutron I. Environmental influences on biomedical doctoral students'
+                research practices when facing dilemmas: vignette-based randomized control trials. Sci Rep 13,
+                16371 (2023). doi:10.1038/s41598-023-42121-1.
+                </li>
+                <li>
+                Vo T. A cautionary note on the use of G-computation in population adjustment. Res Syn Meth.
+                2023;1-4. doi:10.1002/jrsm.1621.
+                </li>
+                <li>
+                van Lancker K , Vo T , Akacha M . Estimands in heath technology assessment: a causal
+                inference perspective. Stat Med. 2022;41(28):5577-5585. doi:10.1002/sim.9539.
+                </li>
+                <li>
+                Vuong ML, Tu PHT, Duong KL, Vo Ty. Development of minimum reporting sets of patient
+                characteristics in epidemiological research: a methodological systematic review. Research Methods
+                in Medicine & Health Sciences. 2023;1-14. doi:10.1177/26320843231191777.
+                </li>
+                <li>
+                Vo T, Cashin A, Superchi C, Tu PHT, Nguyen TB, Boutron I, MacKinnon D, Vanderweele T,
+                Lee H, Vansteelandt S. Current quality assessment practice in systematic reviews of mediation
+                studies: an overview of systematic reviews. J Clin Epidemiol. 2022;143:37-148. doi:10.1016/
+                j.jclinepi.2021.12.013.
+                </li>
+                <li> 
+                Vo T, Vansteelandt S. Challenges in systematic reviews and meta-analyses of mediation studies.
+                Am J Epidemiol. 2022;191(6), 1098-1106. doi:10.1093/aje/kwac028.
+                </li>
+                <li>
+                Vo T, Superchi C, Boutron I, Vansteelandt S. The conduct and reporting of mediation analysis
+                in recently published randomized controlled trials: results from a methodological systematic
+                review. J Clin Epidemiol. 2020;117:78-88. doi:10.1016/j.jclinepi.2019.10.001.
+                </li>
+                <li>
+                Vo T, Vivot A, Porcher R. Impact of Biomarker-based Design Strategies on the Risk of False-
+                Positive Findings in Targeted Therapy Evaluation. Clin Cancer Res. 2018;24(24):6257-6264.
+                doi:10.1158/1078-0432.CCR-18-0328.
+                </li>
+            </ul>
+        </div> 
         </div>
 
     );
