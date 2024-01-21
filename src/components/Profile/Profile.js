@@ -50,7 +50,7 @@ export default function Profile() {
             </div>
                 </be> </be>
         <div className="name">
-            News!!!
+            News
         </div>
             <div className="news">
                 <FaNewspaper/>
