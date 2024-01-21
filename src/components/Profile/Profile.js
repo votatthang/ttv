@@ -48,6 +48,7 @@ export default function Profile() {
                 <FaDownload />
                 <a href="/resume.pdf">My CV</a>
             </div>
+        <br/> <br/> 
             <div className="news">
                 <FaNewspaper/>
                 <a href="mailto:tat-thang.vo@u-pec.fr">I am looking for new master and postdoctoral students. 
