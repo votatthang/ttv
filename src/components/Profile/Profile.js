@@ -48,8 +48,9 @@ export default function Profile() {
                 <FaDownload />
                 <a href="/resume.pdf">My CV</a>
             </div>
+                </be> </be>
         <div className="name">
-            News
+            News!!!
         </div>
             <div className="news">
                 <FaNewspaper/>
