@@ -57,7 +57,6 @@ export default function Profile() {
                 I am looking for new master and postdoctoral students. 
                 Please free to reach out via <a href="mailto:tat-thang.vo@u-pec.fr">email.</a>
             </div>
-        <br/> 
         </div>
     </div>;
 }
