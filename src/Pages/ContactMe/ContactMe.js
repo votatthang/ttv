@@ -7,10 +7,6 @@ const ContactMe = () => {
         <div className="Publications">
         <div className="contentText">
         (*): Equal contribution
-        <span>
-  Test Page
-  <span style={{ verticalAlign: "super" }}>abc</sup>
-</span>
         </div>
          <div className="title">
             Statistical Methods
