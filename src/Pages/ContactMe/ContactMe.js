@@ -29,12 +29,12 @@ const ContactMe = () => {
                     Vo T, Davies H, Hackett R, Vansteelandt S. Longitudinal mediation analysis of time-to-event
                     outcome in the presence of competing risk. Lifetime Data Anal. 2022;28:380{400. doi:10.1007/
                     s10985-022-09555-7.
-                <li/>                                                                        
+                </li>                                                                        
                 <li> 
                     Vo T, Porcher R, Vansteelandt S. Assessing the impact of case-mix heterogeneity in individual
                     participant data meta-analysis: Novel use of I2 statistic and prediction interval. Research
                     Methods in Medicine & Health Sciences. 2021;2(1):12-30.doi:10.1177/2632084320957207.
-               <li/> 
+                </li> 
                <li>
                     Vo T, Porcher R, Chaimani A, Vansteelandt S. A Novel Approach for Identifying and Addressing
                     Case-Mix Heterogeneity in Individual Participant Data Meta-Analysis. Res Synth Methods.
