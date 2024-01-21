@@ -30,9 +30,6 @@ export default function AboutMe() {
             Honors and Awards
         </div>
         <div className="contentText">
-                1. New Faculty Travel Grant Award, Institute of Mathematical Statistics – Aug 2022.
-                <br/> <br/>
-                2. Junior Researcher Travel Grant, US National Science Foundation – May 2022.
             <ul>
                 <li>
                     New Faculty Travel Grant Award, Institute of Mathematical Statistics – Aug 2022.
