@@ -57,8 +57,7 @@ const ContactMe = () => {
                 Meth. 2023;14(5):660-670. doi:10.1002/jrsm.1653.
                 </li>
                 <li>
-                Nguyen V, Sharp M, Superchi C, Baron G, Glonti K, Blanco D, Olsen M, 
-                    <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, 
+                Nguyen V, Sharp M, Superchi C, Baron G, Glonti K, Blanco D, Olsen M, <a href="https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en">Vo T</a>, 
                     Olarte C, Neveol A, Hren D, Ravaud P, Boutron I. Environmental influences on biomedical doctoral students'
                 research practices when facing dilemmas: vignette-based randomized control trials. Sci Rep 13,
                 16371 (2023). doi:10.1038/s41598-023-42121-1.
