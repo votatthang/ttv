@@ -11,8 +11,8 @@ const ContactMe = () => {
         <div className="contentText">
             <ul>
                 <li>
-                    <div> <p style={{ color: 'red' }} >Vo T</p>, Wiliams NT, Liu L, Rudolph KE, Diaz I. Recanting twins: addressing intermediate
-                    confounding in mediation analysis - under review.</div>
+                    <b>Vo T</b>, Wiliams NT, Liu L, Rudolph KE, Diaz I. Recanting twins: addressing intermediate
+                    confounding in mediation analysis - under review.
                 </li>
                 <li>
                     <b>Vo T</b>, Ye T, Ertefaie A, Roy S, Flory J, Hennessy S, Vansteelandt S, Small D. Marginal
