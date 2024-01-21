@@ -49,6 +49,7 @@ export default function Profile() {
             </div>
             <div className="description">
                 I am looking for new master and postdoctoral students. Please free to reach out via email.
+            </div>
         </div>
     </div>;
 }
