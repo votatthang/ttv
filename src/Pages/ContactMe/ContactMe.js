@@ -90,8 +90,25 @@ const ContactMe = () => {
                 </li>
             </ul>
         </div> 
+        <div className="title">
+            Clinical Applications
+        </div>            
+        <div className="contentText">
+            <ul>
+                <li>
+                Hackett R, Vo T, Vansteelandt S, Davies-Kershaw H. The role of loneliness on hearing 
+                ability and dementia: a novel mediation approach. J Am Geriatr Soc. 2023;71(9):2834-2844.
+                doi:10.1111/jgs.183962844.
+                </li>
+                <li>
+                Murillo C, Vo T, Vansteelandt S, Harrison L, Cagnie B, Coppieters I, Chys M, Timmers I,
+                Meeus M. How and for whom do cognitive behavioral therapies for chronic pain work? A
+                systematic review and meta-analysis of speci c moderators and mediators of treatment outcome
+                in musculoskeletal pain. Clin Psychol Rev. 2022;94:102160. doi:10.1016/j.cpr.2022.102160.
+                </li>               
+            </ul>
+        </div> 
         </div>
-
     );
 };
 
