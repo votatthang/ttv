@@ -46,7 +46,7 @@ export default function Profile() {
             </div>
             <div className="resume">
                 <FaDownload />
-                <a href="/resume.pdf">My CV</a>
+                <a href="/CV.pdf">My CV</a>
             </div>
                 <br/> 
         <div className="name">
@@ -61,3 +61,4 @@ export default function Profile() {
         </div>
     </div>;
 }
+
