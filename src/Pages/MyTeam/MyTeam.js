@@ -8,16 +8,26 @@ export default function MyTeam() {
         <div className="contentText">
             <ul>
                 <li>
-                    Khoi Le. PhD student in Epidemiology, University Paris XII. 2023-2026.
-                    <br/> Coadvisor: Pr. Emilie Sbidian.
-                    <br/> 
-                </li>
-                <li>
                     Marie-Felicia Béclin. Postdoc in Biostatistics, University Paris XII. 2025-2027.
                 </li>
                 <li>
                     Enrico Roma. Postdoc in Biostatistics, University Paris XII. 2026-2029.
                     <br/> Coadvisor: Dr. Antonio Remiro-Azocar (Novo Nordisk).
+                    <br/> 
+                </li>
+                <li>
+                    Khoi Le. PhD student in Epidemiology, University Paris XII. 2023-2026.
+                    <br/> Coadvisor: Pr. Emilie Sbidian.
+                    <br/> 
+                </li>
+                <li>
+                    Jonathan Aganze Baleke. MSc. student in Data Science, University Paris XII. 2025-2026.
+                    <br/> Coadvisor: Dr. Marie-Felicia Béclin.
+                    <br/> 
+                </li>
+                <li>
+                    Jonathan Aganze Baleke. MSc. student in Statistics, University Gustave Eiffel. 2025-2026.
+                    <br/> Coadvisor: Dr. Marie-Felicia Béclin.
                     <br/> 
                 </li>
             </ul>
@@ -39,4 +49,5 @@ export default function MyTeam() {
         </div>
     </div>;
 }
+
 
