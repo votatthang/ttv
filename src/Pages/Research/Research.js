@@ -1,7 +1,8 @@
 import React from "react";
 
 export default function Research() {
-  return <div className="Research">
+  return (
+    <div className="Research">
     <div className="title">
       Causal data fusion and its applications
     </div>
@@ -11,6 +12,7 @@ export default function Research() {
       my works primarily concern the development of new methods to address the challenge of heterogeneity and of restricted access to individual-level data, 
       when borrowing information across different populations in evidence synthesis or health technology assessment. 
     </div>
+        
     <div className="title">
       Risk of Bias in Mediation Analysis (ROBIMA)
     </div>
@@ -23,6 +25,7 @@ export default function Research() {
       Dr. <a href="https://www.ndorms.ox.ac.uk/team/hopin-lee">Hopin Lee</a>, 
       Dr. <a href="https://neura.edu.au/researchers/aidan-cashin">Aidan Cashin</a>, among many others.
     </div>
+        
     <div className="title">
       Methods to address (un)measured confounding
     </div>
@@ -30,8 +33,11 @@ export default function Research() {
       Finally, I am particularly interested in developing new methods, as well as improving current methods to address measured and unmeasured confounders.
       For instance, we are currently working on projects to combine matching and countermatching in nested case-control design, 
       to extend the difference-in-differences (DID) design to a survival outcome setting,
-      or to develop alternatives when the parallel trends assumption in DID is violated.
+        or to develop alternatives when the parallel trends assumption in DID is violated.
   </div>
+</div>
+  );
 }
+
 
 
