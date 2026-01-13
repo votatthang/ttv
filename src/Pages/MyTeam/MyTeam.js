@@ -30,6 +30,15 @@ export default function MyTeam() {
                     <br/> Coadvisor: Dr. Marie-Felicia Béclin.
                     <br/> 
                 </li>
+                <li>
+                    Lam Nguyen. MSc. student in Public Health, University Paris Saclay. 2025-2026.
+                    <br/> Coadvisor: Khoi Le.
+                    <br/> 
+                </li>
+                <li>
+                    Nicolas Mauffette (student). MSc. Biostatistics, University of Québec at Montréal. 2024-2026.
+                    <br/> Coadvisor: Geneviève Lefebvre
+                    <br/> 
             </ul>
         </div>
         <div className="title">
@@ -49,5 +58,6 @@ export default function MyTeam() {
         </div>
     </div>;
 }
+
 
 
