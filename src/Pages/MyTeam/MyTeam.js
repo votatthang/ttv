@@ -13,10 +13,12 @@ export default function MyTeam() {
                     <br/> 
                 </li>
                 <li>
-                    Thomas Bettuzzi (mentee). PhD student in Epidemiology, University Paris XII. 2023-2024.
+                    Marie-Felicia Béclin. Postdoc in Biostatistics, University Paris XII. 2025-2027.
                 </li>
                 <li>
-                    Laetitia Tan-Lhernould (mentee). Biotatistician, Henri Mondor Hospital. 2023-2024.
+                    Enrico Roma. Postdoc in Biostatistics, University Paris XII. 2026-2029.
+                    <br/> Coadvisor: Dr. Antonio Remiro-Azocar (Novo Nordisk).
+                    <br/> 
                 </li>
             </ul>
         </div>
@@ -37,3 +39,4 @@ export default function MyTeam() {
         </div>
     </div>;
 }
+
