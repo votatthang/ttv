@@ -32,6 +32,6 @@ export default function Research() {
       to extend the difference-in-differences (DID) design to a survival outcome setting,
       or to develop alternatives when the parallel trends assumption in DID is violated.
   </div>
-  </div>;
 }
+
 
