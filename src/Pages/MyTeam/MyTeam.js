@@ -39,6 +39,7 @@ export default function MyTeam() {
                     Nicolas Mauffette (student). MSc. Biostatistics, University of Québec at Montréal. 2024-2026.
                     <br/> Coadvisor: Geneviève Lefebvre
                     <br/> 
+                </li>
             </ul>
         </div>
         <div className="title">
@@ -58,6 +59,7 @@ export default function MyTeam() {
         </div>
     </div>;
 }
+
 
 
 
