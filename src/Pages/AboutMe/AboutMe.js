@@ -12,8 +12,7 @@ export default function AboutMe() {
             Pr. <a href="https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254/"> Raphael Porcher</a>. My PhD research was funded by the European Union H2020 program. 
             I then received a three-year postdoctoral training by Pr. <a href="https://statistics.wharton.upenn.edu/profile/dsmall/#overview"> Dylan S. Small</a> and Pr. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8396"> Sean Hennessy</a> at
             Wharton Department of Statistics and Data Science, University of Pennsylvania (USA). 
-            <br/> <br/> Recently, I have joined the research group <a href="https://team-epiderme.com/"> EPIDERME</a> at University Paris XII (France) as a Junior Professor in Biostatistics, and the research
-            group <a href="https://map5.mi.parisdescartes.fr/"> MAP5</a> at University Paris Cité (France) as an Associated Researcher.
+            <br/> <br/> Recently, I have joined the research group <a href="https://team-epiderme.com/"> EPIDERME</a> at University Paris XII (France) as a Junior Professor in Biostatistics.
         </div>
         <div className="title">
             Research Interests
@@ -21,7 +20,7 @@ export default function AboutMe() {
         <div className="contentText">
             My current works primarily concern the development of novel approaches for data fusion, mediation analysis,  
             meta-analysis and heterogeneity assessment. More recently, I have been working on methods to address unmeasured confounders, 
-            policy learning and indirect treatment comparisons. One important feature of my research is the application of 
+            policy learning and indirect treatment comparisons. One important feature of my research is the application of 
             semi-parametric theory to develop flexible, data-adaptive estimation strategies for causal parameters. 
             I am also interested in the applications of causal methods to clinical questions in medicine, 
             psychology and pharmacoepidemiology.
@@ -91,3 +90,4 @@ export default function AboutMe() {
 
     </div>;
 }
+
